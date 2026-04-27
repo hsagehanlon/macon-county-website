@@ -556,7 +556,6 @@ a:focus {
 .equal-height-row .content-box {
     flex: 1;
 }
-/* INTERIOR PAGE HERO */
 
 .page-banner {
     position: relative;
@@ -596,7 +595,6 @@ a:focus {
     margin: 0;
 }
 
-/* PROFILE / COMMISSIONER CARDS */
 
 .profile-card {
     background-color: var(--white);
@@ -629,7 +627,6 @@ a:focus {
     margin-bottom: 10px;
 }
 
-/* TABLES */
 
 .styled-table {
     width: 100%;
@@ -649,7 +646,6 @@ a:focus {
     color: var(--midnight-blue);
 }
 
-/* INFO TILES */
 
 .info-tile {
     background-color: var(--white);
@@ -779,7 +775,6 @@ button.custom-btn:active {
     font-weight: 600;
 }
 
-/* Show when targeted */
 #form-success:target {
     display: block;
 }
